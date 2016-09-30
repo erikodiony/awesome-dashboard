@@ -1,5 +1,5 @@
 # awesome-dashboard
-This is awesome-dashboard HTML template for Dashboard Menu, Build with Bootstrap Framework, Font Awesome and Jquery
+This is HTML template for Dashboard Menu, Build with Bootstrap Framework, Font Awesome and Jquery
 Demo -> http://demo.ngezz.ml/awesome-dashboard
 
 # Desktop View : 
